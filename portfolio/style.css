@@ -1,0 +1,33 @@
+body{
+    font-family: 'Ysabeau Infant', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.abid{
+    color: blueviolet;
+}
+section{
+    display: flex;
+}
+.width{
+    width: 50%;
+    padding: 10px 20px
+}
+.width img{
+    width: 80%
+}
+.button{
+    text-decoration: none;
+    background-color: orangered;
+    background-image: linear-gradient(orange,rgb(233, 45, 12));
+    padding: 5px 20px;
+    font: weight 700px;;
+    border-radius: 8px;
+    color: white;
+}
+.top-banner{
+    background-image: url(png-transparent-computer-icons-home-house-desktop-service-home-blue-logo-room-thumbnail.png);
+    background-repeat: no-repeat;
+}
