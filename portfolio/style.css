@@ -8,26 +8,55 @@ h1{
 .abid{
     color: blueviolet;
 }
-section{
+
+.flexible{
     display: flex;
 }
 .width{
     width: 50%;
     padding: 10px 20px
-}
+    
+    }
 .width img{
     width: 80%
 }
 .button{
     text-decoration: none;
     background-color: orangered;
-    background-image: linear-gradient(orange,rgb(233, 45, 12));
+    background-image: linear-gradient(rgb(245, 161, 5),rgb(43, 35, 34));
     padding: 5px 20px;
     font: weight 700px;;
     border-radius: 8px;
     color: white;
 }
 .top-banner{
-    background-image: url(png-transparent-computer-icons-home-house-desktop-service-home-blue-logo-room-thumbnail.png);
-    background-repeat: no-repeat;
+    
+}
+#Dream-Big{
+    width: 50%;
+}
+#Dream-Big img{
+    width: 40%;
+    padding: 20px 5px 10px 20px;
+    
+}
+.banner{
+    
+}
+.green{
+    color: green;
+}
+.experience-item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 40px green;
+    border-right: 10px solid;
+    border-image: linear-gradient(green,rgb(94, 41, 192));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
 }
